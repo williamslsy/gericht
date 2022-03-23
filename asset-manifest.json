@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/github.io/gericht/static/css/main.a51dc5b8.chunk.css",
+    "main.css": "/github.io/gericht/static/css/main.fd7a1a4f.chunk.css",
     "main.js": "/github.io/gericht/static/js/main.350d9fb5.chunk.js",
     "main.js.map": "/github.io/gericht/static/js/main.350d9fb5.chunk.js.map",
     "runtime-main.js": "/github.io/gericht/static/js/runtime-main.7cd4e2f1.js",
@@ -8,7 +8,7 @@
     "static/js/2.a766e07b.chunk.js": "/github.io/gericht/static/js/2.a766e07b.chunk.js",
     "static/js/2.a766e07b.chunk.js.map": "/github.io/gericht/static/js/2.a766e07b.chunk.js.map",
     "index.html": "/github.io/gericht/index.html",
-    "static/css/main.a51dc5b8.chunk.css.map": "/github.io/gericht/static/css/main.a51dc5b8.chunk.css.map",
+    "static/css/main.fd7a1a4f.chunk.css.map": "/github.io/gericht/static/css/main.fd7a1a4f.chunk.css.map",
     "static/js/2.a766e07b.chunk.js.LICENSE.txt": "/github.io/gericht/static/js/2.a766e07b.chunk.js.LICENSE.txt",
     "static/media/G.b571eb82.png": "/github.io/gericht/static/media/G.b571eb82.png",
     "static/media/award01.361a4bc4.png": "/github.io/gericht/static/media/award01.361a4bc4.png",
@@ -35,7 +35,7 @@
   "entrypoints": [
     "static/js/runtime-main.7cd4e2f1.js",
     "static/js/2.a766e07b.chunk.js",
-    "static/css/main.a51dc5b8.chunk.css",
+    "static/css/main.fd7a1a4f.chunk.css",
     "static/js/main.350d9fb5.chunk.js"
   ]
 }
